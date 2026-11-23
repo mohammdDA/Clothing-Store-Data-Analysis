@@ -1,0 +1,35 @@
+﻿product_id,product_name,category,cost_price,sell_price
+101,Basic Cotton Tee,T-Shirts,25,59
+102,Polo Shirt,T-Shirts,35,89
+103,Graphic Tee,T-Shirts,30,69
+104,Long Sleeve Tee,T-Shirts,32,79
+105,Sport Tee,T-Shirts,28,65
+106,Slim Fit Jeans,Jeans,60,159
+107,Regular Jeans,Jeans,58,149
+108,Baggy Jeans,Jeans,65,169
+109,Black Jeans,Jeans,62,159
+110,Kids Jeans,Jeans,35,99
+111,Winter Jacket,Jackets,120,329
+112,Leather Jacket,Jackets,180,449
+113,Hoodie,Jackets,55,149
+114,Windbreaker,Jackets,70,189
+115,Wool Coat,Jackets,150,399
+116,Casual Dress,Dresses,70,189
+117,Evening Dress,Dresses,130,349
+118,Abaya,Dresses,110,299
+119,Summer Dress,Dresses,65,169
+120,Long Skirt,Dresses,55,139
+121,Sneakers,Shoes,90,249
+122,Classic Shoes,Shoes,100,279
+123,Sandals,Shoes,35,99
+124,Boots,Shoes,120,319
+125,Kids Shoes,Shoes,50,149
+126,Leather Belt,Accessories,20,69
+127,Scarf,Accessories,18,59
+128,Cap,Accessories,15,49
+129,Socks Pack,Accessories,10,35
+130,Wallet,Accessories,30,89
+131,Kids Set,Kids,45,129
+132,Kids Pajamas,Kids,30,89
+133,School Uniform,Kids,60,169
+134,Kids Jacket,Kids,70,199

@@ -1,0 +1,301 @@
+﻿customer_id,customer_name,gender,city,age,join_date
+1001,Ahmed Obaid,Male,Gaza City,22,2024-07-17
+1002,Sami Dalloul,Male,Gaza City,29,2025-05-14
+1003,Hassan Masri,Male,Gaza City,57,2023-02-24
+1004,Mariam Barbakh,Female,Gaza City,16,2025-07-08
+1005,Rami Nassar,Male,Gaza City,29,2025-05-15
+1006,Lina Hamad,Female,Gaza City,38,2023-07-09
+1007,Sara Masri,Female,Gaza City,40,2025-07-29
+1008,Hassan Ashour,Male,Khan Younis,39,2024-08-23
+1009,Rami Dalloul,Male,Rafah,34,2023-05-23
+1010,Khaled Hamad,Male,Gaza City,56,2023-07-26
+1011,Hala Nassar,Female,Gaza City,33,2025-01-28
+1012,Sami Masri,Male,Rafah,26,2023-12-17
+1013,Rana Ashour,Female,Rafah,30,2024-07-06
+1014,Sara Dalloul,Female,Deir al-Balah,41,2024-04-14
+1015,Lina Barbakh,Female,Deir al-Balah,36,2024-03-08
+1016,Tamer Hamad,Male,Deir al-Balah,57,2025-10-19
+1017,Hala Shawwa,Female,Gaza City,51,2024-06-26
+1018,Layan Barbakh,Female,Gaza City,30,2025-05-27
+1019,Hassan Abu Amro,Male,Rafah,23,2025-10-07
+1020,Tamer Ashour,Male,Khan Younis,20,2023-11-24
+1021,Rana Masri,Female,Gaza City,51,2025-08-16
+1022,Tamer Ashour,Male,Deir al-Balah,33,2023-08-23
+1023,Lina Hamad,Female,Gaza City,16,2024-08-24
+1024,Salma Masri,Female,Jabalia,56,2024-01-01
+1025,Rawan Barbakh,Female,Gaza City,39,2025-11-05
+1026,Hassan Dalloul,Male,Khan Younis,47,2025-12-22
+1027,Mohammed Mahmoud,Male,Gaza City,31,2025-01-13
+1028,Mohammed Abu Amro,Male,Jabalia,50,2025-09-22
+1029,Omar Masri,Male,Gaza City,49,2025-08-31
+1030,Mariam Zaqout,Female,Gaza City,58,2024-02-16
+1031,Dina Qudaih,Female,Gaza City,30,2025-11-25
+1032,Ali Barbakh,Male,Khan Younis,53,2023-02-13
+1033,Ahmed Zaqout,Male,Rafah,30,2023-05-26
+1034,Ahmed Abu Amro,Male,Khan Younis,33,2024-11-07
+1035,Mariam Zaqout,Female,Jabalia,52,2023-09-28
+1036,Mariam Hamad,Female,Gaza City,22,2025-08-26
+1037,Aya Hamad,Female,Khan Younis,19,2025-05-17
+1038,Ahmed Zaqout,Male,Gaza City,22,2025-04-04
+1039,Khaled Masri,Male,Khan Younis,43,2024-01-25
+1040,Yousef Obaid,Male,Deir al-Balah,20,2025-08-05
+1041,Salma Dalloul,Female,Rafah,50,2023-07-20
+1042,Mohammed Shawwa,Male,Khan Younis,46,2024-04-29
+1043,Mahmoud Shawwa,Male,Gaza City,40,2023-05-01
+1044,Dina Hamad,Female,Rafah,51,2024-08-07
+1045,Hala Mahmoud,Female,Gaza City,19,2024-01-24
+1046,Rami Dalloul,Male,Gaza City,46,2024-10-04
+1047,Ahmed Abu Amro,Male,Deir al-Balah,20,2025-11-06
+1048,Tamer Hamad,Male,Gaza City,52,2024-04-26
+1049,Sami Barbakh,Male,Gaza City,58,2023-03-23
+1050,Nour Ashour,Female,Rafah,31,2024-02-23
+1051,Rana Ashour,Female,Rafah,45,2023-09-26
+1052,Lina Qudaih,Female,Rafah,52,2023-01-20
+1053,Mohammed Masri,Male,Gaza City,38,2024-03-12
+1054,Khaled Mahmoud,Male,Gaza City,50,2025-01-26
+1055,Huda Dalloul,Female,Rafah,51,2025-12-19
+1056,Rawan Shawwa,Female,Gaza City,22,2023-08-01
+1057,Yousef Barbakh,Male,Gaza City,37,2024-07-31
+1058,Tamer Masri,Male,Khan Younis,19,2024-06-24
+1059,Tamer Mahmoud,Male,Gaza City,37,2025-05-17
+1060,Tamer Shawwa,Male,Rafah,51,2024-06-20
+1061,Salma Abu Amro,Female,Gaza City,60,2023-01-20
+1062,Hassan Nassar,Male,Khan Younis,25,2023-03-15
+1063,Hala Mahmoud,Female,Gaza City,18,2023-03-27
+1064,Mariam Ashour,Female,Gaza City,51,2024-05-26
+1065,Huda Obaid,Female,Deir al-Balah,27,2023-11-13
+1066,Sara Zaqout,Female,Jabalia,42,2024-01-03
+1067,Yousef Zaqout,Male,Gaza City,18,2023-11-23
+1068,Mariam Qudaih,Female,Gaza City,30,2024-02-13
+1069,Ahmed Hamad,Male,Gaza City,20,2024-01-31
+1070,Aya Hamad,Female,Rafah,50,2025-11-09
+1071,Sara Mahmoud,Female,Gaza City,32,2023-08-25
+1072,Mohammed Nassar,Male,Rafah,36,2025-06-08
+1073,Huda Abu Amro,Female,Gaza City,52,2025-11-13
+1074,Yousef Zaqout,Male,Khan Younis,49,2023-04-01
+1075,Ali Abu Amro,Male,Jabalia,37,2025-06-02
+1076,Rawan Zaqout,Female,Jabalia,48,2023-09-13
+1077,Rawan Nassar,Female,Khan Younis,34,2025-04-16
+1078,Khaled Ashour,Male,Jabalia,59,2025-05-11
+1079,Sami Hamad,Male,Khan Younis,16,2024-09-08
+1080,Nour Hamad,Female,Deir al-Balah,54,2024-03-06
+1081,Dina Qudaih,Female,Rafah,48,2025-06-23
+1082,Layan Ashour,Female,Gaza City,48,2023-12-14
+1083,Lina Ashour,Female,Gaza City,28,2024-04-26
+1084,Ahmed Obaid,Male,Jabalia,55,2023-04-05
+1085,Ibrahim Ashour,Male,Khan Younis,60,2025-04-28
+1086,Dina Obaid,Female,Gaza City,60,2025-03-29
+1087,Mohammed Obaid,Male,Gaza City,60,2025-05-20
+1088,Sara Abu Amro,Female,Khan Younis,45,2024-05-25
+1089,Dina Hamad,Female,Deir al-Balah,51,2025-10-30
+1090,Hala Qudaih,Female,Gaza City,31,2025-08-30
+1091,Salma Ashour,Female,Gaza City,44,2025-09-19
+1092,Rami Obaid,Male,Gaza City,36,2024-08-08
+1093,Omar Obaid,Male,Gaza City,25,2023-11-05
+1094,Mohammed Hamad,Male,Gaza City,45,2025-04-29
+1095,Sara Hamad,Female,Gaza City,53,2024-02-28
+1096,Sami Qudaih,Male,Gaza City,38,2025-02-18
+1097,Rana Masri,Female,Rafah,50,2025-05-08
+1098,Ibrahim Mahmoud,Male,Khan Younis,17,2024-03-25
+1099,Aya Zaqout,Female,Gaza City,45,2025-04-08
+1100,Sami Hamad,Male,Khan Younis,58,2023-02-25
+1101,Mohammed Shawwa,Male,Deir al-Balah,27,2025-05-27
+1102,Yousef Nassar,Male,Gaza City,36,2025-02-15
+1103,Rana Hamad,Female,Gaza City,21,2024-07-23
+1104,Sara Nassar,Female,Gaza City,20,2023-04-17
+1105,Ahmed Obaid,Male,Deir al-Balah,55,2024-05-21
+1106,Khaled Qudaih,Male,Rafah,52,2023-09-16
+1107,Ibrahim Nassar,Male,Gaza City,54,2024-06-08
+1108,Omar Abu Amro,Male,Khan Younis,35,2024-09-29
+1109,Rana Abu Amro,Female,Khan Younis,56,2024-02-11
+1110,Mohammed Ashour,Male,Khan Younis,23,2024-09-09
+1111,Ali Ashour,Male,Gaza City,48,2025-05-27
+1112,Sara Qudaih,Female,Gaza City,39,2025-05-10
+1113,Layan Hamad,Female,Gaza City,49,2023-11-10
+1114,Huda Qudaih,Female,Khan Younis,53,2025-09-17
+1115,Aya Abu Amro,Female,Gaza City,44,2024-05-17
+1116,Ibrahim Nassar,Male,Gaza City,36,2025-02-15
+1117,Ibrahim Nassar,Male,Deir al-Balah,37,2024-03-10
+1118,Huda Masri,Female,Gaza City,28,2024-07-19
+1119,Khaled Qudaih,Male,Khan Younis,31,2025-04-12
+1120,Rawan Qudaih,Female,Deir al-Balah,21,2025-10-02
+1121,Mariam Zaqout,Female,Gaza City,58,2025-04-08
+1122,Dina Nassar,Female,Khan Younis,51,2025-12-23
+1123,Aya Mahmoud,Female,Gaza City,30,2025-07-18
+1124,Rami Nassar,Male,Gaza City,50,2024-01-30
+1125,Khaled Zaqout,Male,Khan Younis,53,2024-03-19
+1126,Lina Mahmoud,Female,Gaza City,27,2024-02-02
+1127,Sara Mahmoud,Female,Gaza City,19,2023-09-17
+1128,Layan Ashour,Female,Deir al-Balah,47,2023-09-16
+1129,Ahmed Qudaih,Male,Khan Younis,37,2024-08-05
+1130,Ahmed Qudaih,Male,Gaza City,20,2024-06-01
+1131,Dina Barbakh,Female,Rafah,19,2023-06-01
+1132,Omar Abu Amro,Male,Jabalia,23,2024-09-14
+1133,Huda Masri,Female,Gaza City,44,2024-04-07
+1134,Huda Mahmoud,Female,Khan Younis,19,2025-05-28
+1135,Khaled Mahmoud,Male,Rafah,26,2024-03-08
+1136,Omar Shawwa,Male,Gaza City,44,2023-06-03
+1137,Nour Obaid,Female,Gaza City,34,2023-03-08
+1138,Lina Mahmoud,Female,Deir al-Balah,56,2024-04-23
+1139,Mahmoud Masri,Male,Gaza City,25,2023-08-24
+1140,Hala Dalloul,Female,Gaza City,35,2023-05-27
+1141,Dina Qudaih,Female,Rafah,60,2023-09-12
+1142,Nour Masri,Female,Khan Younis,21,2025-10-21
+1143,Mahmoud Barbakh,Male,Gaza City,21,2024-10-22
+1144,Tamer Ashour,Male,Deir al-Balah,52,2023-02-12
+1145,Omar Masri,Male,Rafah,33,2025-08-21
+1146,Sami Ashour,Male,Deir al-Balah,21,2025-06-11
+1147,Aya Nassar,Female,Gaza City,22,2025-04-16
+1148,Ali Zaqout,Male,Khan Younis,58,2025-04-23
+1149,Salma Qudaih,Female,Gaza City,32,2023-03-17
+1150,Lina Masri,Female,Deir al-Balah,16,2025-04-07
+1151,Rana Obaid,Female,Khan Younis,55,2023-04-22
+1152,Rawan Dalloul,Female,Gaza City,51,2025-06-24
+1153,Yousef Zaqout,Male,Khan Younis,17,2025-06-16
+1154,Rami Mahmoud,Male,Khan Younis,51,2023-11-21
+1155,Lina Abu Amro,Female,Khan Younis,23,2024-04-05
+1156,Ibrahim Masri,Male,Rafah,42,2024-08-20
+1157,Dina Qudaih,Female,Khan Younis,40,2024-05-14
+1158,Sami Zaqout,Male,Deir al-Balah,20,2025-11-06
+1159,Rana Masri,Female,Gaza City,16,2024-11-27
+1160,Layan Barbakh,Female,Khan Younis,58,2024-09-03
+1161,Hala Masri,Female,Khan Younis,37,2025-07-03
+1162,Dina Obaid,Female,Jabalia,31,2024-10-21
+1163,Mariam Dalloul,Female,Gaza City,46,2025-04-21
+1164,Rana Qudaih,Female,Jabalia,24,2023-11-08
+1165,Lina Abu Amro,Female,Khan Younis,45,2025-06-20
+1166,Rami Hamad,Male,Deir al-Balah,25,2023-10-23
+1167,Ibrahim Nassar,Male,Rafah,41,2024-06-26
+1168,Ali Nassar,Male,Rafah,47,2025-02-17
+1169,Sami Obaid,Male,Rafah,34,2023-05-21
+1170,Rami Hamad,Male,Jabalia,56,2023-07-05
+1171,Ibrahim Zaqout,Male,Gaza City,17,2023-12-07
+1172,Ali Mahmoud,Male,Gaza City,43,2023-04-25
+1173,Khaled Hamad,Male,Khan Younis,27,2025-12-23
+1174,Omar Barbakh,Male,Deir al-Balah,55,2023-06-11
+1175,Ibrahim Obaid,Male,Khan Younis,32,2023-10-21
+1176,Nour Qudaih,Female,Jabalia,59,2023-01-20
+1177,Mohammed Nassar,Male,Jabalia,35,2025-06-23
+1178,Layan Qudaih,Female,Deir al-Balah,28,2024-05-27
+1179,Dina Obaid,Female,Gaza City,38,2023-08-07
+1180,Layan Dalloul,Female,Jabalia,58,2024-08-27
+1181,Nour Barbakh,Female,Deir al-Balah,19,2023-01-17
+1182,Nour Barbakh,Female,Deir al-Balah,30,2024-04-16
+1183,Sami Ashour,Male,Rafah,58,2024-05-28
+1184,Tamer Ashour,Male,Rafah,35,2023-07-18
+1185,Sara Zaqout,Female,Gaza City,34,2025-01-17
+1186,Layan Shawwa,Female,Gaza City,50,2025-04-30
+1187,Salma Mahmoud,Female,Deir al-Balah,32,2025-10-24
+1188,Nour Abu Amro,Female,Khan Younis,20,2024-11-24
+1189,Khaled Masri,Male,Gaza City,41,2025-03-24
+1190,Yousef Qudaih,Male,Gaza City,59,2023-09-11
+1191,Huda Ashour,Female,Jabalia,22,2025-02-19
+1192,Ibrahim Barbakh,Male,Deir al-Balah,51,2023-02-21
+1193,Huda Ashour,Female,Gaza City,45,2024-03-29
+1194,Rawan Abu Amro,Female,Gaza City,18,2025-04-16
+1195,Dina Abu Amro,Female,Gaza City,50,2023-08-26
+1196,Mahmoud Nassar,Male,Rafah,60,2025-07-18
+1197,Huda Hamad,Female,Rafah,47,2023-11-13
+1198,Nour Zaqout,Female,Gaza City,44,2023-03-09
+1199,Mariam Abu Amro,Female,Jabalia,39,2025-01-12
+1200,Sara Mahmoud,Female,Gaza City,23,2025-03-26
+1201,Lina Ashour,Female,Rafah,17,2024-03-10
+1202,Ali Shawwa,Male,Deir al-Balah,29,2024-05-13
+1203,Hassan Barbakh,Male,Gaza City,30,2024-02-29
+1204,Hala Mahmoud,Female,Deir al-Balah,25,2023-01-06
+1205,Hassan Shawwa,Male,Gaza City,17,2024-05-28
+1206,Ahmed Obaid,Male,Khan Younis,17,2025-01-03
+1207,Yousef Shawwa,Male,Rafah,49,2023-04-18
+1208,Rami Qudaih,Male,Khan Younis,39,2023-05-11
+1209,Ibrahim Obaid,Male,Jabalia,18,2025-10-28
+1210,Dina Dalloul,Female,Jabalia,41,2023-03-05
+1211,Rawan Qudaih,Female,Rafah,44,2023-08-10
+1212,Mohammed Barbakh,Male,Gaza City,24,2024-10-21
+1213,Huda Hamad,Female,Jabalia,49,2024-10-27
+1214,Dina Barbakh,Female,Khan Younis,60,2025-11-01
+1215,Tamer Hamad,Male,Khan Younis,30,2024-03-16
+1216,Aya Hamad,Female,Khan Younis,22,2025-07-17
+1217,Rana Ashour,Female,Gaza City,25,2024-10-02
+1218,Lina Abu Amro,Female,Gaza City,22,2023-07-06
+1219,Hala Barbakh,Female,Jabalia,51,2023-05-03
+1220,Rawan Hamad,Female,Gaza City,58,2023-09-08
+1221,Layan Mahmoud,Female,Khan Younis,38,2023-04-16
+1222,Sami Obaid,Male,Gaza City,46,2025-11-05
+1223,Mohammed Masri,Male,Gaza City,33,2024-12-18
+1224,Mahmoud Barbakh,Male,Jabalia,60,2023-02-23
+1225,Sara Mahmoud,Female,Rafah,35,2024-01-05
+1226,Aya Shawwa,Female,Deir al-Balah,52,2023-01-13
+1227,Lina Zaqout,Female,Rafah,17,2023-10-18
+1228,Rami Obaid,Male,Gaza City,45,2025-12-22
+1229,Hala Mahmoud,Female,Rafah,52,2025-01-27
+1230,Ahmed Shawwa,Male,Rafah,19,2023-11-15
+1231,Yousef Ashour,Male,Khan Younis,54,2025-06-26
+1232,Rana Obaid,Female,Rafah,23,2024-07-13
+1233,Rana Mahmoud,Female,Rafah,53,2023-08-16
+1234,Salma Dalloul,Female,Gaza City,54,2024-09-23
+1235,Ahmed Mahmoud,Male,Jabalia,24,2024-02-23
+1236,Nour Abu Amro,Female,Gaza City,43,2024-11-02
+1237,Omar Masri,Male,Rafah,48,2025-02-17
+1238,Lina Zaqout,Female,Gaza City,17,2025-03-24
+1239,Lina Barbakh,Female,Khan Younis,41,2024-10-03
+1240,Nour Hamad,Female,Gaza City,36,2023-08-24
+1241,Sami Zaqout,Male,Jabalia,21,2025-07-31
+1242,Lina Hamad,Female,Khan Younis,49,2024-05-13
+1243,Mahmoud Zaqout,Male,Gaza City,37,2024-09-27
+1244,Mohammed Ashour,Male,Gaza City,48,2025-11-11
+1245,Ali Zaqout,Male,Jabalia,57,2024-12-20
+1246,Khaled Shawwa,Male,Gaza City,27,2023-07-30
+1247,Tamer Shawwa,Male,Jabalia,56,2023-06-04
+1248,Dina Ashour,Female,Jabalia,52,2025-07-08
+1249,Rawan Shawwa,Female,Khan Younis,46,2024-10-09
+1250,Rawan Mahmoud,Female,Khan Younis,38,2024-09-12
+1251,Yousef Qudaih,Male,Gaza City,39,2025-08-03
+1252,Lina Barbakh,Female,Khan Younis,40,2023-07-04
+1253,Huda Qudaih,Female,Jabalia,52,2023-03-26
+1254,Ali Masri,Male,Gaza City,19,2025-09-01
+1255,Lina Zaqout,Female,Gaza City,57,2024-12-04
+1256,Ahmed Zaqout,Male,Khan Younis,44,2024-05-22
+1257,Ali Mahmoud,Male,Gaza City,37,2025-02-02
+1258,Tamer Abu Amro,Male,Gaza City,51,2024-11-16
+1259,Nour Zaqout,Female,Deir al-Balah,54,2024-05-31
+1260,Ali Barbakh,Male,Rafah,38,2023-06-16
+1261,Rawan Shawwa,Female,Khan Younis,21,2025-03-13
+1262,Salma Ashour,Female,Deir al-Balah,24,2025-02-10
+1263,Tamer Masri,Male,Gaza City,39,2025-05-17
+1264,Hala Nassar,Female,Jabalia,47,2024-03-14
+1265,Khaled Shawwa,Male,Gaza City,22,2023-10-09
+1266,Tamer Barbakh,Male,Gaza City,40,2024-11-20
+1267,Omar Zaqout,Male,Deir al-Balah,26,2024-01-06
+1268,Sara Nassar,Female,Rafah,31,2025-04-21
+1269,Huda Zaqout,Female,Deir al-Balah,30,2024-08-06
+1270,Yousef Obaid,Male,Gaza City,52,2025-08-18
+1271,Dina Hamad,Female,Khan Younis,42,2024-07-31
+1272,Khaled Mahmoud,Male,Gaza City,46,2023-10-11
+1273,Salma Zaqout,Female,Deir al-Balah,23,2023-07-30
+1274,Lina Mahmoud,Female,Khan Younis,48,2023-11-25
+1275,Mahmoud Obaid,Male,Deir al-Balah,38,2023-07-07
+1276,Mahmoud Hamad,Male,Khan Younis,31,2023-04-20
+1277,Lina Obaid,Female,Gaza City,22,2025-02-06
+1278,Hala Dalloul,Female,Gaza City,46,2023-10-09
+1279,Rami Qudaih,Male,Khan Younis,21,2025-08-18
+1280,Yousef Shawwa,Male,Khan Younis,54,2024-03-17
+1281,Lina Obaid,Female,Gaza City,19,2024-08-13
+1282,Mahmoud Abu Amro,Male,Gaza City,47,2025-07-25
+1283,Tamer Barbakh,Male,Gaza City,25,2025-11-21
+1284,Rana Barbakh,Female,Gaza City,52,2023-01-04
+1285,Hala Masri,Female,Jabalia,20,2023-06-25
+1286,Mahmoud Dalloul,Male,Rafah,39,2025-08-20
+1287,Layan Nassar,Female,Deir al-Balah,38,2023-02-03
+1288,Rami Barbakh,Male,Rafah,37,2023-08-01
+1289,Ahmed Masri,Male,Gaza City,57,2024-12-22
+1290,Tamer Zaqout,Male,Khan Younis,27,2025-08-09
+1291,Mohammed Dalloul,Male,Gaza City,18,2025-07-26
+1292,Ahmed Mahmoud,Male,Khan Younis,50,2024-10-08
+1293,Nour Ashour,Female,Gaza City,38,2023-03-16
+1294,Tamer Mahmoud,Male,Gaza City,39,2024-11-10
+1295,Rana Hamad,Female,Gaza City,27,2025-06-19
+1296,Layan Nassar,Female,Jabalia,49,2025-10-15
+1297,Lina Abu Amro,Female,Khan Younis,27,2025-05-19
+1298,Aya Abu Amro,Female,Gaza City,34,2023-07-30
+1299,Dina Shawwa,Female,Rafah,38,2025-05-22
+1300,Sara Barbakh,Female,Jabalia,33,2024-12-23
