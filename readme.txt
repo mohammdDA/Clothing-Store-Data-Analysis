@@ -95,27 +95,6 @@ Performed SQL analysis to answer business questions, including:
 - String Functions
 - Data Type Conversion
 
-## Project Structure
-
-```text
-Clothing-Store-Data-Analysis/
-│
-├── README.md
-│
-├── SQL/
-│   ├── sales_problem_check.sql
-│   ├── sales_clean.sql
-│   ├── customers_clean.sql
-│   ├── products_problem_check.sql
-│   ├── products_clean.sql
-│   └── business_insights.sql
-│
-└── Dataset/
-    ├── sales.csv
-    ├── products.csv
-    └── customers.csv
-```
-
 ## Key Learning Outcomes
 
 Through this project, I practiced working with raw relational datasets, identifying data quality issues, cleaning and transforming data, joining multiple tables, and using SQL to answer business questions.
